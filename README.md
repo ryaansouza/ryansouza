@@ -15,4 +15,7 @@
 - Git Hub
 - Java
 - MySQL
+- HTML
+- CSS
+- Java Script
 -------------------------------------------
