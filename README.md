@@ -4,10 +4,10 @@
 -------------------------------------------
 ### Sobre mim 👨‍🎓
 
-- ✌️  Hello, meu nome é Ryan e tenho 19 anos.
+- ✌️  Hello, meu nome é Ryan e tenho 20 anos.
 - 🏠  Atualmente moro em Sorocaba SP. 
 - 😊  Estudo no Centro Universitário Facens, e frequento o curso de Análise e Desenvolvimento de Sistemas.
-- 🥰  Gosto da desenvolvimento relacionado ao back end.
+- 🥰  Gosto do desenvolvimento relacionado ao back end.
 
 -------------------------------------------
 ### Estou Aprendendo 📖
