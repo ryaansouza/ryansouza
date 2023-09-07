@@ -21,3 +21,8 @@
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java) ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript) 
 ![HTML5](https://img.shields.io/badge/Html5-000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/Css3-000?style=for-the-badge&logo=css3) ![MySql](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
+
+-------------------------------------------
+## GitHub Status
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ryaansouza&layout=compact&bg_color=000&border_color=0000FF&title_color=FFFF&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryaansouza&theme=transparent&bg_color=000&border_color=0000FF&show_icons=true&icon_color=30A3DC&title_color=0000FF&text_color=FFF&hide_title=true&hide=stars)
